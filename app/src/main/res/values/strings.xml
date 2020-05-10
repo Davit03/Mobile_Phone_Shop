@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mobile Phone Shop</string>
+    <string name="your_name">Your Name</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="select_item">Select item</string>
+    <string name="_30_discount">30% Discount</string>
+    <string name="todo">TODO</string>
+    <string name="order_peice">Order Peice</string>
+    <string name="quantity">Quantity</string>
+    <string name="valuta">$</string>
+    <string name="minus_sign">-</string>
+    <string name="ziro">0</string>
+    <string name="plus_sign">+</string>
+    <string name="user_name">User Name</string>
+    <string name="goods_name">Goods Name</string>
+    <string name="order_quantity">Order Quantity</string>
+    <string name="order_price">Order Price</string>
+    <string name="order_information">Order Information</string>
+    <string name="submit">Submit</string>
+
+</resources>
